@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from prediction import predict
 
-st.title("Credit Card Prediction")
+st.title("Credit Card Predictionnnnnn")
 st.markdown("Model to predict credit card churn of customer")
 
 st.header("Customer Details : ")
